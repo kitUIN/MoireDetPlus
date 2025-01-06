@@ -1,8 +1,6 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
 	"features": {
-		"ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {
-			"version":"3.11"
-		}
+
 	}
 }
